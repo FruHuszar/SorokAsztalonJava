@@ -1,7 +1,7 @@
 # SorokAsztalonJava
 
-Added: enum a sortípushoz. - Otthon
-Added: enum a mennyiséghez. - Órán
+- Added: enum a sortípushoz. - Otthon
+- Added: enum a mennyiséghez. - Órán
 
 ```Java
     /**
